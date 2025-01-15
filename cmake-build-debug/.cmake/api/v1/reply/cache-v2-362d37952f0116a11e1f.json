@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/leopo/CLionProjects/ueasystore/cmake-build-debug"
+			"value" : "c:/Users/leopo/Documents/GitHub/TPc-/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/leopo/CLionProjects/ueasystore/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/leopo/Documents/GitHub/TPc-/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/leopo/CLionProjects/ueasystore"
+			"value" : "C:/Users/leopo/Documents/GitHub/TPc-"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1291,7 +1291,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/leopo/CLionProjects/ueasystore/cmake-build-debug"
+			"value" : "C:/Users/leopo/Documents/GitHub/TPc-/cmake-build-debug"
 		},
 		{
 			"name" : "ueasystore_IS_TOP_LEVEL",
@@ -1315,7 +1315,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/leopo/CLionProjects/ueasystore"
+			"value" : "C:/Users/leopo/Documents/GitHub/TPc-"
 		}
 	],
 	"kind" : "cache",

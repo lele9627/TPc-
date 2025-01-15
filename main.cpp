@@ -66,5 +66,5 @@ int main() {
     std::cout << "\n--- Mise à jour du statut de la commande ---" << std::endl;
     std::cout << commandeAlice << std::endl;
 
-    return 0;
+    return 1;
 }
